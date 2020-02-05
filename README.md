@@ -1,0 +1,1 @@
+# vjs-ratings-app
